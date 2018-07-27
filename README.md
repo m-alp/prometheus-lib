@@ -1,2 +1,3 @@
 # prometheus-lib
-Prometheus provider for Laravel Framework
+Laravel package to collect and expose Prometheus Metrics.
+
